@@ -30,3 +30,36 @@ What's needed to begin?
 - Level 1 Complete
 
 Ideally, the blockchain would keep track of the total number of investments made, as this will determine when a player levels up.
+
+***STEEM CLOUD STORY***
+*MINNOWY AND THE STEEM CLOUD*
+
+For many years now the inhabitants of the water world Steemia have grown ever more discontent. Despite the growth in population, the smaller aquatic creatures still have a difficult time accumulating Millisteem from the vast waters. Thousands of plankton are still stuck on the ocean floor and far too many minnows can't swim into the deeper waters to harness the much sought after Millisteem. Even with the help of dolphins, minnows can never reach the depth of orcas or whales, and certainly can not compete with the occasional shark.
+
+Our story begins with Minnowy, a minnow whose parents gave him that name to always remind him of his place in the Steemia ecosystem. After years of swimming in shallow waters, collecting small amounts of Millisteem here and there, Minnowy, out of frustration, decided to swim towards the dark depths of the ocean where legends spoke of unbelievable quantities of Millisteem and great storms that blackened the sky. As he swam with tenacious determination towards the deep, a Voice called to him and warned him to go no further or risk losing his life.
+
+"Who are you? What do you want from me? I'm tired of living this minnow life!" Minnowy lamented.
+
+"Swim away from the deep as far as you can, and you will find another life. It's time to fly, Minnowy, it's time to fly," responded the Voice.
+
+"But I'm a fish; I can't fly!" he argued.
+
+"Swim away from the deep as far as you can, and when you reach the right moment repeat TIME TO FLY 3 times," the Voice commanded and then disappeared.
+
+Minnowy, tired and confused, turned around and began to swim back towards shallow waters. Distracted by thoughts of that mysterious Voice, Minnowy did not notice that he had swam much further away from where he had spent most of his life. He noticed that ahead of him the plant life began to seem different; there were large stalks of strange grass that rose above the water.
+
+"Life above the surface of the water?" he questioned, " How is that possible? I've only ever seen dolphins break through the water/air barrier!"
+
+Looking more intently ahead as he swam towards the grassy jungle, he noticed a golden blade of grass rising out of the water with a Millisteem droplet hanging from the tip. He thought about the words of the Voice and imagined that this must be the right moment.
+
+"TIME TO FLY! TIME TO FLY! TIME TO FLY!"
+
+As he spoke those magic words, a colossal white cloud appeared in the sky and a fiery being flew down towards Minnowy.
+
+"Well done Minnowy! Now you can live your new life. Climb the golden blade and collect your Millisteem. From tomorrow on, you will be able to collect your Millisteem from the Steem Cloud, and day by day you will collect more and more and fly higher and higher until one day you become as I am. Steem Clouds hover over the deepest depths of your ocean, where only larger fish can swim, and draw liquidity from the subaquatic abyss, converting it into billions of Millisteem and raining it down into distant waters. Are you ready Minnowy?" the Fire Being asked.
+
+"I'm ready!" Minnowy proclaimed.
+
+The Fire Being rose back into the Steem Cloud and Minnowy began to feel a strange sensation under his belly, as legs grew out from his body. Slowly, and cautiously, he climbed the golden blade of grass until he reached the tip and collected his Millisteem. Suddenly, from his back began to spring out wings. Again, he heard the Voice of the Fire Being.
+
+"No longer will you be called Minnowy! You are now Dragonfly! Fly Dragonfly, TIME TO FLY!"
