@@ -32,6 +32,7 @@ What's needed to begin?
 Ideally, the blockchain would keep track of the total number of investments made, as this will determine when a player levels up.
 
 ***STEEM CLOUD STORY***
+
 *MINNOWY AND THE STEEM CLOUD*
 
 For many years now the inhabitants of the water world Steemia have grown ever more discontent. Despite the growth in population, the smaller aquatic creatures still have a difficult time accumulating Millisteem from the vast waters. Thousands of plankton are still stuck on the ocean floor and far too many minnows can't swim into the deeper waters to harness the much sought after Millisteem. Even with the help of dolphins, minnows can never reach the depth of orcas or whales, and certainly can not compete with the occasional shark.
