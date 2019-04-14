@@ -6,8 +6,11 @@ Hope to find some interest and help in this endeavor.
 In a nutshell, the game will input external cryptocurrencies, offer a level-based discount and output STEEM depending on that level. 
 So far, there are 6 Types of Investors and 30 Levels. 
 
-What's needed to begin?
+What's needed?
+
 - A website and Steem acount for game
+  - Since I do not know how to build these kinds of websites, I would like to suggest that either you can build it from scratch or you can simply add it to your already existing site, at least to test it and see how it goes. Initially, your own Steem account can be used before commiting to a game account. I'd be available for testing and playing.
+  
 - Login through Steemconnect to verify Steem account
 - Steem account gets assigned a DOGE deposit-only address
 - Website retrieves, publishes and updates STEEM price
