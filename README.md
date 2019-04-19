@@ -13,6 +13,7 @@ What's needed?
   
 - Login through Steemconnect to verify Steem account
 - Steem account gets assigned a DOGE deposit-only address
+ - Other cryptocurrencies can be introduced in the future, like LTC. The introduction of a new coin would prompt the creation of another page within the game that would start over from Level 1. So while a player may be on Level 15 with DOGE, he or she could then decide to start bringing in LTC and would, however, have to begin at Level 1.
 - Website retrieves, publishes and updates STEEM price
 - Website retrieves, publishes and updates DOGE price
 - Calculate DOGE per STEEM value
