@@ -28,6 +28,7 @@ What's needed?
 - Deduct DOGE amount from player's total
 - @steemcloud account send 0.001 STEEM to player Steem account with Memo (Steem Cloud Reward)
 - INVEST button converts to countdown CLOCK (23:59)
+  - Additionally when Steem Power is sufficient, an option to POST the investment to Steemit can be added with a 30% Upvote from the @steemcloud account. Upvote decreases by 0.5% every time Voting Power falls under 75% to adjust for increased number of players.
 - 24 hours later player repeats 
 - Level 1 Complete
 
