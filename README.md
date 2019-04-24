@@ -3,6 +3,13 @@ Steem Cloud will be an investment game built on the Steem blockchain.
 This is my first GitHub project and will serve as a learning exercise, at the very least. 
 Hope to find some interest and help in this endeavor.
 
+What will Steem Cloud offer and address for the Steemit community?
+- The opportunity for those with low Steem Power to gain STEEM from a sources other than posting or upvoting
+- A chance to learn about other cryptocurrencies and how to transfer them
+- A way to bring funding, through other cryptocurrencies, into the STEEM system
+- A way to bring new accounts to Steemit
+- An investment model that favors those with less STEEM rather than favoring those with more STEEM, but without alienating or demeaning those with larger stakes in STEEM
+
 In a nutshell, the game will input external cryptocurrencies, offer a level-based discount and output STEEM depending on that level. 
 So far, there are 6 Types of Investors and 30 Levels. 
 
