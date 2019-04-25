@@ -20,7 +20,7 @@ What's needed?
   
 - Login through Steemconnect to verify Steem account
 - Steem account gets assigned a DOGE deposit-only address
- - Ideally, **Option 1** would create DOGE addresses through Blocktrades and be linked to the @steemcloud wallet so that when the DOGE are sent, they are converted and deposited directly as STEEM. Otherwise, **Option 2** would incorporate a DOGE address generator, and create a master DOGE address where all DOGE that are first deposited in the personal addresses would then be moved to the master address, which would then move the DOGE into the @steemcloud account through Blocktrades. This is also true for any future coins that are added, like LTC, DASH, ect. Any coins that are not available through Blocktrades would be forced to take the second option, with the addition of needing to be sent to external exchanges to be converted.
+  - Ideally, **Option 1** would create DOGE addresses through Blocktrades and be linked to the @steemcloud wallet so that when the DOGE are sent, they are converted and deposited directly as STEEM. Otherwise, **Option 2** would incorporate a DOGE address generator, and create a master DOGE address where all DOGE that are first deposited in the personal addresses would then be moved to the master address, which would then move the DOGE into the @steemcloud account through Blocktrades. This is also true for any future coins that are added, like LTC, DASH, ect. Any coins that are not available through Blocktrades would be forced to take the second option, with the addition of needing to be sent to external exchanges to be converted.
 - Website retrieves, publishes and updates STEEM price
 - Website retrieves, publishes and updates DOGE price
 - Calculate DOGE per STEEM value
