@@ -17,10 +17,11 @@ What's needed?
 
 - A website and Steem acount for game
   - Since I do not know how to build these kinds of websites, I would like to suggest that either you can build it from scratch or you can simply add it to your already existing site, at least to test it and see how it goes. Initially, your own Steem account can be used before commiting to a game account. I'd be available for testing and playing.
+  - The account ***steemcloud*** already exixts, so you will have to use another name like @steem.cloud or @steem-cloud
   
 - Login through Steemconnect to verify Steem account
 - Steem account gets assigned a DOGE deposit-only address
-  - Ideally, **Option 1** would create DOGE addresses through Blocktrades and be linked to the @steemcloud wallet so that when the DOGE are sent, they are converted and deposited directly as STEEM. Otherwise, **Option 2** would incorporate a DOGE address generator, and create a master DOGE address where all DOGE that are first deposited in the personal addresses would then be moved to the master address, which would then move the DOGE into the @steemcloud account through Blocktrades. This is also true for any future coins that are added, like LTC, DASH, ect. Any coins that are not available through Blocktrades would be forced to take the second option, with the addition of needing to be sent to external exchanges to be converted.
+  - Ideally, **Option 1** would create DOGE addresses through Blocktrades and be linked to the @steem.cloud wallet so that when the DOGE are sent, they are converted and deposited directly as STEEM. Otherwise, **Option 2** would incorporate a DOGE address generator, and create a master DOGE address where all DOGE that are first deposited in the personal addresses would then be moved to the master address, which would then move the DOGE into the @steem.cloud account through Blocktrades. This is also true for any future coins that are added, like LTC, DASH, ect. Any coins that are not available through Blocktrades would be forced to take the second option, with the addition of needing to be sent to external exchanges to be converted.
 - Website retrieves, publishes and updates STEEM price
 - Website retrieves, publishes and updates DOGE price
 - Calculate DOGE per STEEM value
@@ -34,7 +35,7 @@ What's needed?
 - Alert (ARE YOU SURE?) YES/NO
 - Click YES
 - Deduct DOGE amount from player's total
-- @steemcloud account send 0.001 STEEM to player Steem account with Memo (Steem Cloud Reward)
+- @steem.cloud account send 0.001 STEEM to player Steem account with Memo (Steem Cloud Reward)
 - INVEST button converts to countdown CLOCK (23:59)
 - 24 hours later player repeats 
 - Level 1 Complete
