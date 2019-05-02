@@ -26,6 +26,11 @@ What's needed?
 - Website retrieves, publishes and updates DOGE price
 - Calculate DOGE per STEEM value
 - Create 1st Type: Dragonfly Investor
+ - 2nd Type: Sparrow Investor
+ - 3rd Type: Raven Investor
+ - 4th Type: Falcon Investor
+ - 5th Type: Eagle Investor
+ - 6th Type: Phoenix Investor
 - Create Level 1 investment
 - Transfer DOGE into player account
 - Level 1 Dragonfly Investor gets 50% discount on DOGE
