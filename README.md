@@ -26,7 +26,25 @@ What's needed?
 - Website retrieves, publishes and updates DOGE price
 - Calculate DOGE per STEEM value
 - Create 1st Type: Dragonfly Investor
- - 2nd Type: Sparrow Investor
+
+|Level|Reward|Next Level|Discount|UPVOTE|
+|-|-|-|-|-|
+|1|0.001 STEEM|1 Investment|50%|30.0%|
+|2|0.002 STEEM|5 Investments|49%|29.5%|
+|3|0.003 STEEM|10 Investments|47%|29.0%|
+|4|0.004 STEEM|20 Investments|46%|28.5%|
+|5|0.005 STEEM|40 Investments|45%|28.0%|
+
+  - 2nd Type: Sparrow Investor
+  
+|Level|Reward|Next Level|Discount|UPVOTE|
+|-|-|-|-|-|
+|6|0.010 STEEM|80 Investment|44%|27.5%|
+|7|0.015 STEEM|160 Investments|43%|27.0%|
+|8|0.020 STEEM|320 Investments|42%|26.5%|
+|9|0.025 STEEM|640 Investments|41%|26.0%|
+|10|0.030 STEEM|1280 Investments|40%|25.5%|
+
  - 3rd Type: Raven Investor
  - 4th Type: Falcon Investor
  - 5th Type: Eagle Investor
