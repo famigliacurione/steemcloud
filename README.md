@@ -46,6 +46,15 @@ What's needed?
 |10|0.030 STEEM|1280 Investments|40%|25.5%|
 
  - 3rd Type: Raven Investor
+ 
+|Level|Reward|Next Level|Discount|UPVOTE|
+|-|-|-|-|-|
+|11|0.040 STEEM|2000 Investment|39%|25.0%|
+|12|0.050 STEEM|3000 Investments|38%|25.5%|
+|13|0.060 STEEM|4000 Investments|37%|24.5%|
+|14|0.070 STEEM|5000 Investments|36%|24.0%|
+|15|0.080 STEEM|6000 Investments|35%|23.5%|
+ 
  - 4th Type: Falcon Investor
  - 5th Type: Eagle Investor
  - 6th Type: Phoenix Investor
