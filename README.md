@@ -4,7 +4,7 @@ This is my first GitHub project and will serve as a learning exercise, at the ve
 Hope to find some interest and help in this endeavor.
 
 What will Steem Cloud offer and address for the Steemit community?
-- The opportunity for those with low Steem Power to gain STEEM from a sources other than posting or upvoting
+- The opportunity for those with low Steem Power to gain STEEM from a source other than posting or upvoting
 - A chance to learn about other cryptocurrencies and how to transfer them
 - A way to bring funding, through other cryptocurrencies, into the STEEM system
 - A way to bring new accounts to Steemit
